@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 group-title="央视HD" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
 http://192.168.31.254:4022/udp/233.18.204.67:5140
@@ -270,3 +269,4 @@ http://192.168.31.254:4022/udp/239.45.3.187:5140
 http://192.168.31.254:4022/udp/233.18.204.46:5140
 #EXTINF:-1 group-title="少儿" tvg-logo=" https://www.lysvc.cc/TVlogo/img/dmxc.png",动漫秀场
 http://192.168.31.254:4022/udp/239.45.3.134:5140
+
