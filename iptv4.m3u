@@ -9,7 +9,7 @@ http://192.168.31.254:5140/rtp/239.45.0.55:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://175.178.182.213/tb/CCTV1.png" group-title="央视",CCTV1
 http://192.168.31.254:5140/rtp/233.18.204.52:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://175.178.182.213/tb/CCTV2.png" group-title="央视",CCTV2
-http://192.168.31.254:5140/rtp/233.18.204.68:5140?fcc=124.75.26.151:15970
+http://192.168.31.254:5140/rtp/233.18.204.68:5140?fcc=124.75.26.211:7777
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://175.178.182.213/tb/CCTV3.png" group-title="央视",CCTV3
 http://192.168.31.254:5140/rtp/233.18.204.69:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://175.178.182.213/tb/CCTV4.png" group-title="央视",CCTV4
@@ -252,6 +252,7 @@ http://192.168.31.254:5140/rtp/233.18.204.109:5140?fcc=124.75.26.151:15970
 http://192.168.31.254:5140/rtp/233.18.204.54:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="动漫秀场 HD" tvg-name="动漫秀场 HD" tvg-logo="http://175.178.182.213/tb/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA+HD.png" group-title="少儿",动漫秀场 HD
 http://192.168.31.254:5140/rtp/233.18.204.46:5140?fcc=124.75.26.151:15970
+
 
 
 
