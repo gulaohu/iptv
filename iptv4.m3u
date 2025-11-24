@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://175.178.182.213/tb/CCTV5%2B.png" group-title="央视",CCTV5+
 http://192.168.31.254:5140/rtp/233.18.204.67:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="http://175.178.182.213/tb/CCTV4k.png" group-title="央视",CCTV4k
-http://192.168.31.254:5140/rtp/233.18.204.188:5140?fcc=124.75.26.151:15970
+http://192.168.31.254:5140/rtp/233.18.204.188:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="http://175.178.182.213/tb/CCTV4k.png" group-title="央视",CCTV4k
 http://192.168.31.254:5140/rtp/239.45.0.55:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://175.178.182.213/tb/CCTV1.png" group-title="央视",CCTV1
@@ -13,21 +13,21 @@ http://192.168.31.254:5140/rtp/233.18.204.68:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://175.178.182.213/tb/CCTV3.png" group-title="央视",CCTV3
 http://192.168.31.254:5140/rtp/233.18.204.69:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://175.178.182.213/tb/CCTV4.png" group-title="央视",CCTV4
-http://192.168.31.254:5140/rtp/233.18.204.70:5140?fcc=124.75.26.151:15970
+http://192.168.31.254:5140/rtp/233.18.204.70:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://175.178.182.213/tb/CCTV5.png" group-title="央视",CCTV5
-http://192.168.31.254:5140/rtp/233.18.204.71:5140?fcc=124.75.26.151:15970
+http://192.168.31.254:5140/rtp/233.18.204.71:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://175.178.182.213/tb/CCTV6.png" group-title="央视",CCTV6
 http://192.168.31.254:5140/rtp/233.18.204.72:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://175.178.182.213/tb/CCTV7.png" group-title="央视",CCTV7
-http://192.168.31.254:5140/rtp/233.18.204.73:5140?fcc=124.75.26.151:15970
+http://192.168.31.254:5140/rtp/233.18.204.73:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://175.178.182.213/tb/CCTV8.png" group-title="央视",CCTV8
 http://192.168.31.254:5140/rtp/233.18.204.74:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://175.178.182.213/tb/CCTV9.png" group-title="央视",CCTV9
-http://192.168.31.254:5140/rtp/233.18.204.75:5140?fcc=124.75.26.151:15970
+http://192.168.31.254:5140/rtp/233.18.204.75:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://175.178.182.213/tb/CCTV10.png" group-title="央视",CCTV10
 http://192.168.31.254:5140/rtp/233.18.204.76:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://175.178.182.213/tb/CCTV11.png" group-title="央视",CCTV11
-http://192.168.31.254:5140/rtp/233.18.204.77:5140?fcc=124.75.26.151:15970
+http://192.168.31.254:5140/rtp/233.18.204.77:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://175.178.182.213/tb/CCTV12.png" group-title="央视",CCTV12
 http://192.168.31.254:5140/rtp/233.18.204.78:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://175.178.182.213/tb/CCTV13.png" group-title="央视",CCTV13
@@ -35,9 +35,9 @@ http://192.168.31.254:5140/rtp/233.18.204.79:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://175.178.182.213/tb/CCTV14.png" group-title="央视",CCTV14
 http://192.168.31.254:5140/rtp/233.18.204.80:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://175.178.182.213/tb/CCTV15.png" group-title="央视",CCTV15
-http://192.168.31.254:5140/rtp/233.18.204.81:5140?fcc=124.75.26.151:15970
+http://192.168.31.254:5140/rtp/233.18.204.81:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" group-title="央视",CCTV16
-http://192.168.31.254:5140/rtp/233.18.204.82:5140?fcc=124.75.26.151:15970
+http://192.168.31.254:5140/rtp/233.18.204.82:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://175.178.182.213/tb/CCTV17.png" group-title="央视",CCTV17
 http://192.168.31.254:5140/rtp/233.18.204.83:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="http://175.178.182.213/tb/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="CHC",CHC家庭影院
@@ -252,6 +252,7 @@ http://192.168.31.254:5140/rtp/233.18.204.109:5140?fcc=124.75.26.151:15970
 http://192.168.31.254:5140/rtp/233.18.204.54:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="动漫秀场 HD" tvg-name="动漫秀场 HD" tvg-logo="http://175.178.182.213/tb/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA+HD.png" group-title="少儿",动漫秀场 HD
 http://192.168.31.254:5140/rtp/233.18.204.46:5140?fcc=124.75.26.151:15970
+
 
 
 
