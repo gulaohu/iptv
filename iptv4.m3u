@@ -240,14 +240,13 @@ http://192.168.31.254:5140/rtp/233.18.204.113:5140?fcc=124.75.26.151:15970
 http://192.168.31.254:5140/rtp/233.18.204.151:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="http://175.178.182.213/tb/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿",嘉佳卡通
 http://192.168.31.254:5140/rtp/239.45.1.48:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="BRTVkaku少儿" tvg-name="BRTVkaku少儿" tvg-logo="http://175.178.182.213/tb/BRTVkaku%E5%B0%91%E5%84%BF.png" group-title="少儿",BRTVkaku少儿
-http://192.168.31.254:5140/rtp/233.18.204.152:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="卡酷少儿 HD" tvg-name="卡酷少儿 HD" tvg-logo="http://175.178.182.213/tb/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF+HD.png" group-title="少儿",卡酷少儿 HD
 http://192.168.31.254:5140/rtp/233.18.204.109:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="http://175.178.182.213/tb/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png" group-title="少儿",哈哈炫动
 http://192.168.31.254:5140/rtp/233.18.204.54:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="动漫秀场 HD" tvg-name="动漫秀场 HD" tvg-logo="http://175.178.182.213/tb/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA+HD.png" group-title="少儿",动漫秀场 HD
 http://192.168.31.254:5140/rtp/233.18.204.46:5140?fcc=124.75.26.151:15970
+
 
 
 
