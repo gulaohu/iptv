@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://175.178.182.213/tb/CCTV5%2B.png" group-title="央视",CCTV5+
-http://192.168.31.254:5140/rtp/233.18.204.67:5140?fcc=124.75.25.214:7777
+http://192.168.31.254:5140/rtp/233.18.204.67:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="http://175.178.182.213/tb/CCTV4k.png" group-title="央视",CCTV4k
-http://192.168.31.254:5140/rtp/233.18.204.188:5140?fcc=124.75.25.216:7777
+http://192.168.31.254:5140/rtp/233.18.204.188:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="http://175.178.182.213/tb/CCTV4k.png" group-title="央视",CCTV4k
-http://192.168.31.254:5140/rtp/239.45.0.55:5140?fcc=124.75.25.216:7777
+http://192.168.31.254:5140/rtp/239.45.0.55:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://175.178.182.213/tb/CCTV1.png" group-title="央视",CCTV1
 http://192.168.31.254:5140/rtp/233.18.204.52:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://175.178.182.213/tb/CCTV2.png" group-title="央视",CCTV2
@@ -47,7 +47,7 @@ http://192.168.31.254:5140/rtp/233.18.204.174:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="http://175.178.182.213/tb/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="CHC",CHC影迷电影
 http://192.168.31.254:5140/rtp/233.18.204.175:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="新闻综合 HD" tvg-name="新闻综合 HD" tvg-logo="http://175.178.182.213/tb/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88+HD.png" group-title="上海",新闻综合 HD
-http://192.168.31.254:5140/rtp/233.18.204.57:5140?fcc=124.75.25.214:7777
+http://192.168.31.254:5140/rtp/233.18.204.57:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="东方卫视 HD" tvg-name="东方卫视 HD" tvg-logo="http://175.178.182.213/tb/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86+HD.png" group-title="上海",东方卫视 HD
 http://192.168.31.254:5140/rtp/233.18.204.51:5140?fcc=124.75.25.212:7777
 #EXTINF:-1 tvg-id="都市频道 HD" tvg-name="都市频道 HD" tvg-logo="http://175.178.182.213/tb/%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93+HD.png" group-title="上海",都市频道 HD
@@ -252,4 +252,5 @@ http://192.168.31.254:5140/rtp/233.18.204.109:5140?fcc=124.75.26.151:15970
 http://192.168.31.254:5140/rtp/233.18.204.54:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="动漫秀场 HD" tvg-name="动漫秀场 HD" tvg-logo="http://175.178.182.213/tb/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA+HD.png" group-title="少儿",动漫秀场 HD
 http://192.168.31.254:5140/rtp/233.18.204.46:5140?fcc=124.75.25.212:7777
+
 
