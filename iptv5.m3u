@@ -204,7 +204,7 @@ http://192.168.31.254:5140/rtp/233.18.204.178:5140?fcc=124.75.26.151:15970
 http://192.168.31.254:5140/rtp/233.18.204.179:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="快乐垂钓 HD" tvg-name="快乐垂钓 HD" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/快乐垂钓.png" group-title="休闲",快乐垂钓 HD
 http://192.168.31.254:5140/rtp/233.18.204.42:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="茶频道 HD" tvg-name="茶频道 HD" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/茶频道.png" group-title="休闲",茶频道 HD
+#EXTINF:-1 tvg-id="茶频道 HD" tvg-name="茶频道 HD" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/茶.png" group-title="休闲",茶频道 HD
 http://192.168.31.254:5140/rtp/233.18.204.43:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="女性时尚 HD" tvg-name="女性时尚 HD" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/女性时尚.png" group-title="休闲",女性时尚 HD
 http://192.168.31.254:5140/rtp/233.18.204.180:5140?fcc=124.75.26.151:15970
@@ -240,6 +240,7 @@ http://192.168.31.254:5140/rtp/233.18.204.109:5140?fcc=124.75.26.151:15970
 http://192.168.31.254:5140/rtp/233.18.204.54:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="动漫秀场 HD" tvg-name="动漫秀场 HD" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/动漫秀场.png" group-title="少儿",动漫秀场 HD
 http://192.168.31.254:5140/rtp/233.18.204.46:5140?fcc=124.75.26.151:15970
+
 
 
 
