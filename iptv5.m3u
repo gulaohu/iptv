@@ -1,76 +1,76 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://baoer.org.cn/e.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV1.png" group-title="央视",CCTV1
 http://192.168.31.254:5140/rtp/233.18.204.52:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV2.png" group-title="央视",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV2.png" group-title="央视",CCTV2
 http://192.168.31.254:5140/rtp/233.18.204.68:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV3.png" group-title="央视",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV3.png" group-title="央视",CCTV3
 http://192.168.31.254:5140/rtp/233.18.204.69:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV4.png" group-title="央视",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV4.png" group-title="央视",CCTV4
 http://192.168.31.254:5140/rtp/233.18.204.70:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV5.png" group-title="央视",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV5.png" group-title="央视",CCTV5
 http://192.168.31.254:5140/rtp/233.18.204.71:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV6.png" group-title="央视",CCTV6
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV6.png" group-title="央视",CCTV6
 http://192.168.31.254:5140/rtp/233.18.204.72:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV7.png" group-title="央视",CCTV7
 http://192.168.31.254:5140/rtp/233.18.204.73:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV8.png" group-title="央视",CCTV8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV8.png" group-title="央视",CCTV8
 http://192.168.31.254:5140/rtp/233.18.204.74:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV9.png" group-title="央视",CCTV9
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV9.png" group-title="央视",CCTV9
 http://192.168.31.254:5140/rtp/233.18.204.75:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV10.png" group-title="央视",CCTV10
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV10.png" group-title="央视",CCTV10
 http://192.168.31.254:5140/rtp/233.18.204.76:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV11.png" group-title="央视",CCTV11
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV11.png" group-title="央视",CCTV11
 http://192.168.31.254:5140/rtp/233.18.204.77:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV12.png" group-title="央视",CCTV12
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV12.png" group-title="央视",CCTV12
 http://192.168.31.254:5140/rtp/233.18.204.78:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV13.png" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV13.png" group-title="央视",CCTV13
 http://192.168.31.254:5140/rtp/233.18.204.79:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV14.png" group-title="央视",CCTV14
 http://192.168.31.254:5140/rtp/233.18.204.80:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV15.png" group-title="央视",CCTV15
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV15.png" group-title="央视",CCTV15
 http://192.168.31.254:5140/rtp/233.18.204.81:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV16.png" group-title="央视",CCTV16
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV16.png" group-title="央视",CCTV16
 http://192.168.31.254:5140/rtp/233.18.204.82:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV17.png" group-title="央视",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV17.png" group-title="央视",CCTV17
 http://192.168.31.254:5140/rtp/233.18.204.83:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV5%2B.png" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV5+" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV5%2B.png" group-title="央视",CCTV5+
 http://192.168.31.254:5140/rtp/233.18.204.67:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV4k" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV4K.png" group-title="央视",CCTV4k
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4k" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV4K.png" group-title="央视",CCTV4k
 http://192.168.31.254:5140/rtp/233.18.204.188:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV4k" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CCTV4K.png" group-title="央视",CCTV4k
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4k" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CCTV4K.png" group-title="央视",CCTV4k
 http://192.168.31.254:5140/rtp/239.45.0.55:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="65" tvg-name="CHC家庭影院" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
 http://192.168.31.254:5140/rtp/233.18.204.173:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="66" tvg-name="CHC动作电影" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CHC动作电影.png" group-title="CHC",CHC动作电影
 http://192.168.31.254:5140/rtp/233.18.204.174:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="67" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
+#EXTINF:-1 tvg-id="67" tvg-name="CHC影迷电影" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影
 http://192.168.31.254:5140/rtp/233.18.204.175:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="158 HD" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/上视新闻.png" group-title="上海",新闻综合 HD
+#EXTINF:-1 tvg-id="158 HD" tvg-name="上海新闻综合" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/上视新闻.png" group-title="上海",新闻综合 HD
 http://192.168.31.254:5140/rtp/233.18.204.57:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/东方卫视.png" group-title="上海",东方卫视 HD
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/东方卫视.png" group-title="上海",东方卫视 HD
 http://192.168.31.254:5140/rtp/233.18.204.51:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="159" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/上海都市.png" group-title="上海",都市频道 HD
+#EXTINF:-1 tvg-id="159" tvg-name="上海都市" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/上海都市.png" group-title="上海",都市频道 HD
 http://192.168.31.254:5140/rtp/233.18.204.53:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="161" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/东方影视.png" group-title="上海",东方影视 HD
+#EXTINF:-1 tvg-id="161" tvg-name="东方影视" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/东方影视.png" group-title="上海",东方影视 HD
 http://192.168.31.254:5140/rtp/233.18.204.55:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="162" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/五星体育.png" group-title="上海",五星体育 HD
+#EXTINF:-1 tvg-id="162" tvg-name="五星体育" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/五星体育.png" group-title="上海",五星体育 HD
 http://192.168.31.254:5140/rtp/233.18.204.58:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="160" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/上海第一财经.png" group-title="上海",第一财经 HD
+#EXTINF:-1 tvg-id="160" tvg-name="第一财经" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/上海第一财经.png" group-title="上海",第一财经 HD
 http://192.168.31.254:5140/rtp/233.18.204.59:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/上海教育.png" group-title="上海",上海教育 HD
+#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/上海教育.png" group-title="上海",上海教育 HD
 http://192.168.31.254:5140/rtp/233.18.204.63:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/东方财经.png" group-title="上海",东方财经 HD
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/东方财经.png" group-title="上海",东方财经 HD
 http://192.168.31.254:5140/rtp/233.18.204.65:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/都市剧场.png" group-title="上海",都市剧场 HD
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/都市剧场.png" group-title="上海",都市剧场 HD
 http://192.168.31.254:5140/rtp/233.18.204.48:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/法治天地.png" group-title="上海",法治天地 HD
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/法治天地.png" group-title="上海",法治天地 HD
 http://192.168.31.254:5140/rtp/233.18.204.49:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/欢笑剧场.png" group-title="上海",欢笑剧场 HD
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/欢笑剧场.png" group-title="上海",欢笑剧场 HD
 http://192.168.31.254:5140/rtp/233.18.204.50:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/金色学堂.png" group-title="上海",金色学堂 HD
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/金色学堂.png" group-title="上海",金色学堂 HD
 http://192.168.31.254:5140/rtp/233.18.204.66:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/乐游.png" group-title="上海",乐游 HD
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/乐游.png" group-title="上海",乐游 HD
 http://192.168.31.254:5140/rtp/233.18.204.47:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="30" tvg-name="浙江卫视" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/浙江卫视.png" group-title="卫视",浙江卫视 HD
 http://192.168.31.254:5140/rtp/233.18.204.84:5140?fcc=124.75.26.151:15970
@@ -236,11 +236,10 @@ http://192.168.31.254:5140/rtp/233.18.204.151:5140?fcc=124.75.26.151:15970
 http://192.168.31.254:5140/rtp/239.45.1.48:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="122" tvg-name="卡酷少儿" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/卡酷少儿.png" group-title="少儿",卡酷少儿 HD
 http://192.168.31.254:5140/rtp/233.18.204.109:5140?fcc=124.75.26.151:15970
-#EXTINF:-1 tvg-id="163" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/哈哈炫动.png" group-title="少儿",哈哈炫动 HD
+#EXTINF:-1 tvg-id="163" tvg-name="哈哈炫动" tvg-logo="https://github.com/gulaohu/live/blob/main/tv/哈哈炫动.png" group-title="少儿",哈哈炫动 HD
 http://192.168.31.254:5140/rtp/233.18.204.54:5140?fcc=124.75.26.151:15970
 #EXTINF:-1 tvg-id="123" tvg-name="动漫秀场" tvg-logo="http://raw.githubusercontent.com/gulaohu/live/refs/heads/main/tv/动漫秀场.png" group-title="少儿",动漫秀场 HD
 http://192.168.31.254:5140/rtp/233.18.204.46:5140?fcc=124.75.26.151:15970
-
 
 
 
