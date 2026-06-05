@@ -1,0 +1,90 @@
+{
+  "cache_time": 7200,
+  "api_site": {
+    "tiankongapi.com": {
+      "name": "🎬天空资源",
+      "api": "https://api.tiankongapi.com/api.php/provide/vod",
+      "detail": "https://tiankongapi.com"
+    },
+    "suoniapi.com": {
+      "name": "🎬索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "detail": "https://suoniapi.com"
+    },
+    "apiyhzy.com": {
+      "name": "🎬樱花资源",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "detail": "https://apiyhzy.com"
+    },
+    "sdzyapi.com": {
+      "name": "🎬闪电资源",
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "detail": "https://sdzyapi.com"
+    },
+    "kuyunapi.com": {
+      "name": "🎬酷云资源",
+      "api": "https://kuyunapi.com/api.php/provide/vod",
+      "detail": "https://kuyunapi.com"
+    },
+    "taopianapi.com": {
+      "name": "🎬淘片资源",
+      "api": "https://taopianapi.com/api.php/provide/vod",
+      "detail": "https://taopianapi.com"
+    },
+    "1080zyku.com": {
+      "name": "🎬1080资源",
+      "api": "https://1080zyku.com/inc/apijson.php",
+      "detail": "https://1080zyku.com"
+    },
+    "kczyapi.com": {
+      "name": "🎬快车资源",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
+      "detail": "https://kczyapi.com"
+    },
+    "heimuer.tv": {
+      "name": "🎬黑木耳资源",
+      "api": "https://www.heimuer.tv/api.php/provide/vod",
+      "detail": "https://www.heimuer.tv"
+    },
+    "bajiecaiji.com": {
+      "name": "🎬八戒资源",
+      "api": "https://cj.bajiecaiji.com/inc/apijson.php",
+      "detail": "https://bajiecaiji.com"
+    },
+    "yzzyapi.com": {
+      "name": "🎬优质资源",
+      "api": "https://yzzyapi.com/api.php/provide/vod",
+      "detail": "https://yzzyapi.com"
+    },
+    "niuniuzyapi.com": {
+      "name": "🎬牛牛资源",
+      "api": "https://api.niuniuzyapi.com/api.php/provide/vod",
+      "detail": "https://niuniuzyapi.com"
+    },
+    "hw8.live": {
+      "name": "🎬华为资源",
+      "api": "https://hw8.live/api.php/provide/vod",
+      "detail": "https://hw8.live"
+    },
+    "okzyw.com": {
+      "name": "🎬OK资源",
+      "api": "https://okzyw.com/api.php/provide/vod",
+      "detail": "https://okzyw.com"
+    },
+    "kkzyapi.com": {
+      "name": "🎬看看资源",
+      "api": "https://kkzyapi.com/api.php/provide/vod",
+      "detail": "https://kkzyapi.com"
+    },
+    "feisuzy.com": {
+      "name": "🎬飞速资源",
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod",
+      "detail": "https://www.feisuzy.com"
+    },
+    "huyaapi.com": {
+      "name": "🎬虎牙资源",
+      "api": "https://huyaapi.com/api.php/provide/vod",
+      "detail": "https://huyaapi.com"
+    }
+  }
+}
